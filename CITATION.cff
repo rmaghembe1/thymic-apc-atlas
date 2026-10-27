@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the archived release of this repository."
+title: "Human Thymic Stromal-Immune APC Atlas reproducibility repository"
+type: software
+authors:
+  - family-names: "Maghembe"
+    given-names: "Reuben"
+version: "1.0.0"

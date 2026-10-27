@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*

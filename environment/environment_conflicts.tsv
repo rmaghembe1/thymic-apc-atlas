@@ -1,0 +1,3 @@
+package	canonical_name	python_metadata_version	conda_metadata_version	conda_build	conda_channel	resolution_status	source_requirement_line_sha256
+pandas	pandas	2.3.1	2.3.3	py313h08cd8bf_1	https://conda.anaconda.org/conda-forge/noarch	CONFLICT_PYTHON_CONDA	51c42069b803a9635e507d757dd17d74ef1867996f6530759dda681e23638b44
+tzdata	tzdata	2025.2	2025b	h04d1e81_0	https://repo.anaconda.com/pkgs/main/linux-64	CONFLICT_PYTHON_CONDA	7bad87515a661ba0ddc674112c7e9c07c00b7962a44c15f5346bcc00d5b8bc5e

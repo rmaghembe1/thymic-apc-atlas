@@ -1,0 +1,52 @@
+package	expected_version_from_freeze	python_metadata_version	conda_metadata_version	status
+anndata	0.12.18	0.12.18		MATCH
+annoy	1.17.3	1.17.3		MATCH
+argcomplete	3.6.2	3.6.2		MATCH
+argh	0.31.3	0.31.3		MATCH
+array-api-compat	1.15.0	1.15.0		MATCH
+biopython	1.85	1.85		MATCH
+clinker	0.0.31	0.0.31		MATCH
+Cython	3.2.6	3.2.6		MATCH
+disjoint_set	0.8.0	0.8.0		MATCH
+dna_features_viewer	3.1.5	3.1.5		MATCH
+donfig	0.8.1.post1	0.8.1.post1		MATCH
+fast-array-utils	1.4.1	1.4.1		MATCH
+gffutils	0.13	0.13		MATCH
+google-crc32c	1.8.0	1.8.0		MATCH
+h5py	3.16.0	3.16.0		MATCH
+igraph	1.0.0	1.0.0		MATCH
+ImageIO	2.37.3	2.37.3		MATCH
+jsonpointer	2.1	2.1	2.1	MATCH
+lazy-loader	0.5	0.5		MATCH
+legacy-api-wrap	1.5	1.5		MATCH
+leidenalg	0.12.0	0.12.0		MATCH
+llvmlite	0.47.0	0.47.0		MATCH
+lxml	6.0.2	6.0.2		MATCH
+matplotlib	3.10.5	3.10.5		MATCH
+matplotlib-venn	1.1.2	1.1.2		MATCH
+numba	0.65.1	0.65.1		MATCH
+numcodecs	0.16.5	0.16.5		MATCH
+packaging	26.2	24.2	24.2	MISMATCH
+pdfminer.six	20251107	20251107		MATCH
+pyfaidx	0.9.0.1	0.9.0.1		MATCH
+pynndescent	0.6.0	0.6.0		MATCH
+PyPDF2	3.0.1	3.0.1		MATCH
+pysam	0.23.3	0.23.3	0.23.3	MATCH
+python-docx	1.2.0	1.2.0		MATCH
+scanpy	1.12.1	1.12.1		MATCH
+scikit-image	0.26.0	0.26.0		MATCH
+scikit-learn	1.9.0	1.9.0		MATCH
+scrublet	0.2.3	0.2.3		MATCH
+scverse-misc	0.1.1	0.1.1		MATCH
+session-info2	0.4.1	0.4.1		MATCH
+setuptools	78.1.1	78.1.1	78.1.1	MATCH
+svgutils	0.3.4	0.3.4		MATCH
+tabulate	0.10.0	0.10.0		MATCH
+texttable	1.7.0	1.7.0		MATCH
+threadpoolctl	3.6.0	3.6.0		MATCH
+tifffile	2026.6.1	2026.6.1		MATCH
+typing_extensions	4.15.0	4.12.2	4.12.2	MISMATCH
+umap-learn	0.5.12	0.5.12		MATCH
+wheel	0.45.1	0.45.1	0.45.1	MATCH
+zarr	3.2.1	3.2.1		MATCH
+zstandard	0.23.0	0.23.0	0.23.0	MATCH
